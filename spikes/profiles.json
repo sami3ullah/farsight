@@ -1,0 +1,12 @@
+[
+  {"brand": "Nike",         "instagram": "nike",         "tiktok": "nike",         "facebook": "nike"},
+  {"brand": "Gymshark",     "instagram": "gymshark",     "tiktok": "gymshark",     "facebook": "Gymshark"},
+  {"brand": "Duolingo",     "instagram": "duolingo",     "tiktok": "duolingo",     "facebook": "duolingo"},
+  {"brand": "Glossier",     "instagram": "glossier",     "tiktok": "glossier",     "facebook": "glossier"},
+  {"brand": "Red Bull",     "instagram": "redbull",      "tiktok": "redbull",      "facebook": "redbull"},
+  {"brand": "Starbucks",    "instagram": "starbucks",    "tiktok": "starbucks",    "facebook": "Starbucks"},
+  {"brand": "Ryanair",      "instagram": "ryanair",      "tiktok": "ryanair",      "facebook": "ryanair"},
+  {"brand": "Liquid Death", "instagram": "liquiddeath",  "tiktok": "liquiddeath",  "facebook": "liquiddeath"},
+  {"brand": "Fenty Beauty", "instagram": "fentybeauty",  "tiktok": "fentybeauty",  "facebook": "fentybeauty"},
+  {"brand": "Netflix",      "instagram": "netflix",      "tiktok": "netflix",      "facebook": "netflix"}
+]

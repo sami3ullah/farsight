@@ -1,0 +1,21 @@
+[
+ {
+  "__typename": "XIGPolarisVideoMedia",
+  "__isXIGPolarisMedia": "XIGPolarisVideoMedia",
+  "pk": "3651931942568441345",
+  "code": "DKuRMDEsbYB",
+  "accessibility_caption": "Video by Duolingo on June 10, 2025.",
+  "caption": {
+   "text": "Rook-ies welcome!\u265f\ufe0f Chess lessons are here on iOS! #duolingo"
+  },
+  "seo_canonical_url": null,
+  "display_uri": "https://scontent-ham3-1.cdninstagram.com/v/t51.71878-15/506092845_1219768595979399_4125401302548168569_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=C2pyPOZQ11QQ7kNvwH_flBO&_nc_oc=AdoPpIOJURKnwc3vbhLpdPpp_qFJ1FhsCZo5Ea8MTEebCFXH1LimrqXt1QByzPTRUEk&_nc_zt=23&_nc_ht=scontent-ham3-1.cdninstagram.com&_nc_gid=IEbE_7-GaxQe4bxg0dT7_w&_nc_ss=70789&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQVRpsW0xvtMCZjhil5HTS-aA5ad6PcqXRA961tgXgs4A&oe=6B0BC4B8",
+  "media_type": 2,
+  "product_type": "clips",
+  "user": {
+   "username": "duolingo",
+   "id": "17841400404763615"
+  },
+  "id": "POLARIS_3651931942568441345"
+ }
+]

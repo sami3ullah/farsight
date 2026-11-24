@@ -1,0 +1,105 @@
+{
+  "results": [
+    {
+      "handle": "nike",
+      "reels_with_metrics": 12,
+      "like": 12,
+      "comment": 12,
+      "play": 12,
+      "taken_at": 0,
+      "errors": [],
+      "seconds": 17.3
+    },
+    {
+      "handle": "gymshark",
+      "reels_with_metrics": 12,
+      "like": 12,
+      "comment": 12,
+      "play": 12,
+      "taken_at": 0,
+      "errors": [],
+      "seconds": 17.0
+    },
+    {
+      "handle": "duolingo",
+      "reels_with_metrics": 12,
+      "like": 12,
+      "comment": 12,
+      "play": 12,
+      "taken_at": 0,
+      "errors": [],
+      "seconds": 17.1
+    },
+    {
+      "handle": "glossier",
+      "reels_with_metrics": 12,
+      "like": 12,
+      "comment": 12,
+      "play": 12,
+      "taken_at": 0,
+      "errors": [],
+      "seconds": 17.1
+    },
+    {
+      "handle": "redbull",
+      "reels_with_metrics": 12,
+      "like": 12,
+      "comment": 12,
+      "play": 12,
+      "taken_at": 0,
+      "errors": [],
+      "seconds": 17.0
+    },
+    {
+      "handle": "starbucks",
+      "reels_with_metrics": 12,
+      "like": 12,
+      "comment": 12,
+      "play": 12,
+      "taken_at": 0,
+      "errors": [],
+      "seconds": 17.8
+    },
+    {
+      "handle": "ryanair",
+      "reels_with_metrics": 12,
+      "like": 12,
+      "comment": 12,
+      "play": 12,
+      "taken_at": 0,
+      "errors": [],
+      "seconds": 17.1
+    },
+    {
+      "handle": "liquiddeath",
+      "reels_with_metrics": 12,
+      "like": 12,
+      "comment": 12,
+      "play": 12,
+      "taken_at": 0,
+      "errors": [],
+      "seconds": 17.2
+    },
+    {
+      "handle": "fentybeauty",
+      "reels_with_metrics": 12,
+      "like": 12,
+      "comment": 12,
+      "play": 12,
+      "taken_at": 0,
+      "errors": [],
+      "seconds": 16.9
+    },
+    {
+      "handle": "netflix",
+      "reels_with_metrics": 12,
+      "like": 12,
+      "comment": 12,
+      "play": 12,
+      "taken_at": 0,
+      "errors": [],
+      "seconds": 17.1
+    }
+  ],
+  "share_keys": []
+}

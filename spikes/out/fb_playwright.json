@@ -1,0 +1,185 @@
+[
+  {
+    "handle": "nike",
+    "error": null,
+    "cookie_banner": "Decline optional cookies",
+    "post_ids_seen": 6,
+    "gql_calls": 4,
+    "login_wall_after_scroll": null,
+    "scrolls": 1,
+    "oldest": "2025-07-29",
+    "newest": "2025-09-15",
+    "reached_3_months": true,
+    "in_window_times": 0,
+    "metric_nodes": 102,
+    "with_reaction": 81,
+    "with_share": 7,
+    "with_comments": 21,
+    "metric_samples": [
+      {
+        "reaction": null,
+        "i18n_reaction": null,
+        "share": null,
+        "comments": 2811,
+        "video_views": null
+      },
+      {
+        "reaction": 8869,
+        "i18n_reaction": "8.8K",
+        "share": 1273,
+        "comments": 2811,
+        "video_views": 547120
+      },
+      {
+        "reaction": 7341,
+        "i18n_reaction": "7.3K",
+        "share": null,
+        "comments": null,
+        "video_views": null
+      }
+    ],
+    "seconds": 9.7
+  },
+  {
+    "handle": "glossier",
+    "error": null,
+    "cookie_banner": "Decline optional cookies",
+    "post_ids_seen": 12,
+    "gql_calls": 6,
+    "login_wall_after_scroll": 2,
+    "scrolls": 8,
+    "oldest": "2026-05-25",
+    "newest": "2026-11-24",
+    "reached_3_months": false,
+    "in_window_times": 10,
+    "metric_nodes": 85,
+    "with_reaction": 55,
+    "with_share": 13,
+    "with_comments": 39,
+    "metric_samples": [
+      {
+        "reaction": null,
+        "i18n_reaction": null,
+        "share": null,
+        "comments": 0,
+        "video_views": null
+      },
+      {
+        "reaction": 1,
+        "i18n_reaction": "1",
+        "share": 0,
+        "comments": 0,
+        "video_views": 4
+      },
+      {
+        "reaction": 1,
+        "i18n_reaction": "1",
+        "share": null,
+        "comments": null,
+        "video_views": null
+      }
+    ],
+    "seconds": 26.9
+  },
+  {
+    "handle": "Starbucks",
+    "error": null,
+    "cookie_banner": "Decline optional cookies",
+    "post_ids_seen": 21,
+    "gql_calls": 8,
+    "login_wall_after_scroll": 2,
+    "scrolls": 8,
+    "oldest": "2026-09-18",
+    "newest": "2026-11-17",
+    "reached_3_months": false,
+    "in_window_times": 21,
+    "metric_nodes": 296,
+    "with_reaction": 234,
+    "with_share": 22,
+    "with_comments": 66,
+    "metric_samples": [
+      {
+        "reaction": null,
+        "i18n_reaction": null,
+        "share": null,
+        "comments": 17678,
+        "video_views": null
+      },
+      {
+        "reaction": 35721,
+        "i18n_reaction": "35K",
+        "share": 543,
+        "comments": 17678,
+        "video_views": null
+      },
+      {
+        "reaction": 29684,
+        "i18n_reaction": "29K",
+        "share": null,
+        "comments": null,
+        "video_views": null
+      }
+    ],
+    "seconds": 26.9
+  },
+  {
+    "handle": "liquiddeath",
+    "error": null,
+    "cookie_banner": "Decline optional cookies",
+    "post_ids_seen": 0,
+    "gql_calls": 0,
+    "login_wall_after_scroll": null,
+    "scrolls": 6,
+    "oldest": null,
+    "newest": null,
+    "reached_3_months": false,
+    "in_window_times": 0,
+    "metric_nodes": 0,
+    "with_reaction": 0,
+    "with_share": 0,
+    "with_comments": 0,
+    "metric_samples": [],
+    "seconds": 21.5
+  },
+  {
+    "handle": "netflix",
+    "error": null,
+    "cookie_banner": "Decline optional cookies",
+    "post_ids_seen": 1,
+    "gql_calls": 1,
+    "login_wall_after_scroll": null,
+    "scrolls": 6,
+    "oldest": "2019-09-09",
+    "newest": "2019-09-09",
+    "reached_3_months": false,
+    "in_window_times": 0,
+    "metric_nodes": 16,
+    "with_reaction": 13,
+    "with_share": 1,
+    "with_comments": 3,
+    "metric_samples": [
+      {
+        "reaction": null,
+        "i18n_reaction": null,
+        "share": null,
+        "comments": 18390,
+        "video_views": null
+      },
+      {
+        "reaction": 138301,
+        "i18n_reaction": "138K",
+        "share": 11677,
+        "comments": 18390,
+        "video_views": 70060776
+      },
+      {
+        "reaction": 117854,
+        "i18n_reaction": "117K",
+        "share": null,
+        "comments": null,
+        "video_views": null
+      }
+    ],
+    "seconds": 22.0
+  }
+]

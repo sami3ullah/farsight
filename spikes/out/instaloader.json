@@ -1,0 +1,115 @@
+{
+  "results": [
+    {
+      "handle": "nike",
+      "ok": false,
+      "posts_in_window": 0,
+      "reached_window_end": false,
+      "error": "ProfileNotExistsException: Profile nike does not exist.",
+      "followers": 289930373,
+      "fields_present": {},
+      "sample": null,
+      "seconds": 3.3
+    },
+    {
+      "handle": "gymshark",
+      "ok": false,
+      "posts_in_window": 0,
+      "reached_window_end": false,
+      "error": "ProfileNotExistsException: Profile gymshark does not exist.",
+      "followers": 8810783,
+      "fields_present": {},
+      "sample": null,
+      "seconds": 1.0
+    },
+    {
+      "handle": "duolingo",
+      "ok": false,
+      "posts_in_window": 0,
+      "reached_window_end": false,
+      "error": "ProfileNotExistsException: Profile duolingo does not exist.",
+      "followers": 5440603,
+      "fields_present": {},
+      "sample": null,
+      "seconds": 3.1
+    },
+    {
+      "handle": "glossier",
+      "ok": false,
+      "posts_in_window": 0,
+      "reached_window_end": false,
+      "error": "ProfileNotExistsException: Profile glossier does not exist.",
+      "followers": 3114934,
+      "fields_present": {},
+      "sample": null,
+      "seconds": 3.5
+    },
+    {
+      "handle": "redbull",
+      "ok": false,
+      "posts_in_window": 0,
+      "reached_window_end": false,
+      "error": "ProfileNotExistsException: Profile redbull does not exist.",
+      "followers": 34723853,
+      "fields_present": {},
+      "sample": null,
+      "seconds": 4.3
+    },
+    {
+      "handle": "starbucks",
+      "ok": false,
+      "posts_in_window": 0,
+      "reached_window_end": false,
+      "error": "ProfileNotExistsException: Profile starbucks does not exist.",
+      "followers": 17594610,
+      "fields_present": {},
+      "sample": null,
+      "seconds": 3.1
+    },
+    {
+      "handle": "ryanair",
+      "ok": false,
+      "posts_in_window": 0,
+      "reached_window_end": false,
+      "error": "ProfileNotExistsException: Profile ryanair does not exist.",
+      "followers": 1907080,
+      "fields_present": {},
+      "sample": null,
+      "seconds": 3.3
+    },
+    {
+      "handle": "liquiddeath",
+      "ok": false,
+      "posts_in_window": 0,
+      "reached_window_end": false,
+      "error": "ProfileNotExistsException: Profile liquiddeath does not exist.",
+      "followers": 6865480,
+      "fields_present": {},
+      "sample": null,
+      "seconds": 5.3
+    },
+    {
+      "handle": "fentybeauty",
+      "ok": false,
+      "posts_in_window": 0,
+      "reached_window_end": false,
+      "error": "ProfileNotExistsException: Profile fentybeauty does not exist.",
+      "followers": 13341387,
+      "fields_present": {},
+      "sample": null,
+      "seconds": 5.0
+    },
+    {
+      "handle": "netflix",
+      "ok": false,
+      "posts_in_window": 0,
+      "reached_window_end": false,
+      "error": "ProfileNotExistsException: Profile netflix does not exist.",
+      "followers": 42680730,
+      "fields_present": {},
+      "sample": null,
+      "seconds": 2.9
+    }
+  ],
+  "raw_node_keys": []
+}

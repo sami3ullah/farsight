@@ -1,0 +1,6 @@
+.venv/
+spikes/out/*.png
+spikes/out/*.html
+spikes/.fb_token
+__pycache__/
+spikes/facebook_state.json
